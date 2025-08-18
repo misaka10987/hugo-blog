@@ -20,6 +20,24 @@ url = "http://2208129531.qzone.qq.com"
 params.icon = "brand-qq"
 
 [[social]]
+identifier = "wechat"
+name = "WeChat"
+url = "/wechat.jpg"
+params.icon = "brand-wechat"
+
+[[social]]
+identifier = "reddit"
+name = "Reddit"
+url = "https://www.reddit.com/user/misaka10987/"
+params.icon = "brand-reddit"
+
+[[social]]
+identifier = "email"
+name = "EMail"
+url = "mailto:misaka10987@outlook.com"
+params.icon = "mail"
+
+[[social]]
 identifier = "lichess"
 name = "lichess.org"
 url = "https://lichess.org/@/misaka10987"
